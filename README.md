@@ -7,10 +7,10 @@ Easy just run on trminal
 - Php artisan migration
 - Php artisan db:seed
 
-   And the open localhost is you need to be superadmin and take all permissions please login with 
+   And then open localhost if you need to be a superadmin and take all permissions please login with 
 - admin@website.com and password 12345678
 
-If you need to be anther admin please login with
+If you need to be another admin please login with
    - admin2@website.com with password 12345678
    
 
@@ -21,11 +21,11 @@ then open
 If you need to be a user please register and verify your email
 ## Thinking process
 
-1-i understand what the admin want to be exit if he is in a website have just users and posts 
+1-i understand what the admin want to be exist if he is in a website have just users and posts.
 
-2-defined a problems and solved it as is the user were an user I don't want him to see admin part and is the user is not an super admin I want him to just control his own posts and information
+2-defined a problems and solved it as if the user were , I don't want the ordinary user to see admin part and if the user is not an super admin I want him to just control his own posts and informations
 
-3-i choose the best way of solutions for users  to the problems after searching
+3-i chose the best way of solutions for users to solve the problems after searching
 
 4-i tested a lot static and dynamic testing all pages and code with all data 
 
